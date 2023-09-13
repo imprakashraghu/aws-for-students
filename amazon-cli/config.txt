@@ -1,0 +1,9 @@
+1. Go to ~/.aws/
+2. Edit file: credentials
+3. Paste your access keys and secrets
+
+// to list my instances
+aws ec2 describe-instances --filters "Name=tag:Name,Values=MyInstance"
+
+Add a tag to your instance
+aws ec2 create-tags --resources instance-id --tags Key=Name,Value=MyInstance

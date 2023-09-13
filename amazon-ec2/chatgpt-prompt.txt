@@ -1,0 +1,9 @@
+CHAT GPT Prompt to create a simple website for me
+
+Create a colorful website for my resume with the following details:
+Name: Prakash
+Role: System Engineer
+Skills: Web Development, Cloud Computing
+Hobbies: Books, Gaming and Anime
+Linkedin: https://linkedin.com/in/test
+Email: test@gmail.com
